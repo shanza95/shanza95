@@ -3,7 +3,6 @@
 A **Data Analyst** passionate about uncovering insights from data and turning them into actionable stories.  
 
 ---
-
 ### 🧰 Tools & Technologies
 
 #### 🐍 Languages & Libraries  
@@ -14,21 +13,26 @@ A **Data Analyst** passionate about uncovering insights from data and turning th
   <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-9F2B68?style=for-the-badge" /></a>
+<a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /></a>
+<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge" /></a>
 </p>
 
 #### 📊 Data Tools  
 <p align="left">
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a>
+  <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank"><img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /></a> 
   <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
   <a href="https://www.tableau.com/" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></a>
+  <a href="https://workspace.google.com/products/sheets/" target="_blank"><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" /></a>
 </p>
 
 #### ⚙️ Other Tools  
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
 </p>
 
 
