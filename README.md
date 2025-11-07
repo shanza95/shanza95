@@ -43,8 +43,8 @@ Here are a few of my ongoing and completed projects:
 - 🧮 **[Streaming Service Content Performance Analysis](https://github.com/shanza95/Streaming-Service-Content-Performance-Analysis)**  
 - 🎬 **[Amazon Sales Project](https://github.com/shanza95/Amazon-Sales-Project)** 
 - 🛍️ **[Banking - Vehicle Loan](https://github.com/shanza95/Banking---Vehicle-Loan)**
-- **[HR Analytics](https://github.com/shanza95/HR-Analytics-Dashboard).**
-- **[Cardiovascular disease analysis](https://github.com/shanza95/Cardiovascular-Disease-CVD-Risk-Analysis).**
+- 👩‍💼 **[HR Analytics](https://github.com/shanza95/HR-Analytics-Dashboard)**
+- ❤️ **[Cardiovascular disease analysis](https://github.com/shanza95/Cardiovascular-Disease-CVD-Risk-Analysis)**
 
 *(More projects coming soon — I’m always learning!)*
 
@@ -52,24 +52,22 @@ Here are a few of my ongoing and completed projects:
 
 ### 🌱 Currently Learning
 
-- Advanced SQL queries and joins  
+- Advanced SQL queries 
 - Data visualization storytelling in Power BI  
-- Predictive analytics with Python  
+- Web Scraping with Python  
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="[https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/shanza-saleem-7639262a5/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:s.shanza1995@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
-  </a>
+
 </p>
 
 ---
