@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Shanza
 
 A **Data Analyst** passionate about uncovering insights from data and turning them into actionable stories.  
-My learning journey has been fueled by hands-on projects and professional development through **Fortray**, where I’ve been expanding my analytical and visualization skills.
 
 ---
 
