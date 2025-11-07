@@ -40,9 +40,11 @@ A **Data Analyst** passionate about uncovering insights from data and turning th
 
 Here are a few of my ongoing and completed projects:
 
-- 🧮 **[Sales Insights Dashboard](#)** – Built a Power BI dashboard to visualize regional sales performance.  
-- 🎬 **[Movie Data Exploration](#)** – Analyzed IMDb datasets using Python and pandas.  
-- 🛍️ **[Customer Segmentation](#)** – Used clustering techniques to group customers by purchase behavior.
+- 🧮 **[Streaming Service Content Performance Analysis](https://github.com/shanza95/Streaming-Service-Content-Performance-Analysis)**  
+- 🎬 **[Amazon Sales Project](https://github.com/shanza95/Amazon-Sales-Project)** 
+- 🛍️ **[Banking - Vehicle Loan](https://github.com/shanza95/Banking---Vehicle-Loan)**
+- **[HR Analytics](https://github.com/shanza95/HR-Analytics-Dashboard).**
+- **[Cardiovascular disease analysis](https://github.com/shanza95/Cardiovascular-Disease-CVD-Risk-Analysis).**
 
 *(More projects coming soon — I’m always learning!)*
 
