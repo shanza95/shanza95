@@ -31,8 +31,6 @@ A **Data Analyst** passionate about uncovering insights from data and turning th
 <p align="left">
   <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-  <a href="https://colab.research.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" /></a>
-  <a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" /></a>
 </p>
 
 
@@ -62,10 +60,10 @@ Here are a few of my ongoing and completed projects:
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/shanza-saleem-7639262a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/shanza-saleem-19806139b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:s.shanza1995@gmail.com">
+  <a href="mailto:saleem.shanza95@gmail.com">
     <img 
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email" />
