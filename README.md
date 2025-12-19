@@ -14,7 +14,7 @@ A **Data Analyst** passionate about uncovering insights from data and turning th
   <a href="https://matplotlib.org/" target="_blank"><img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Seaborn-9F2B68?style=for-the-badge" /></a>
 <a href="https://plotly.com/" target="_blank"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" /></a>
-<a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank"><img src="https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge" /></a>
+
 </p>
 
 #### 📊 Data Tools  
